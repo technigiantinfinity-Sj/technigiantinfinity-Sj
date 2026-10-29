@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:123B5D,100:06B6D4&height=210&section=header&text=N.%20Sivaji&fontSize=52&fontColor=F8FAFC&fontAlignY=36&desc=BUILDING%20PRACTICAL%20SOFTWARE%20FROM%20BOLD%20IDEAS&descAlignY=58&descSize=14&animation=fadeIn" alt="N. Sivaji — building practical software from bold ideas" width="100%" />
   <br/>
-  <a href="https://github.com/technigiantinfinity-Sj"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=22D3EE&center=true&vCenter=true&width=650&lines=B.Tech+undergraduate;Exploring+software+engineering;Building+ideas+into+useful+projects;Currently+contributing+to+ReliefRank" alt="Animated profile tagline" /></a>
+  <a href="https://github.com/technigiantinfinity-Sj"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=22D3EE&center=true&vCenter=true&width=650&lines=B.Tech+undergraduate;Exploring+software+engineering;Building+ideas+into+useful+projects;Inspired+Innovation+technique" alt="Animated profile tagline" /></a>
   <br/><br/>
   <a href="https://github.com/technigiantinfinity-Sj?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore repositories" /></a>
   <a href="https://github.com/Krish0703-irl/ReliefRank"><img src="https://img.shields.io/badge/Featured%20project-ReliefRank-0B1020?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Featured project ReliefRank" /></a>
